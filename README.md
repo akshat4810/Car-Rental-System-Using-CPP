@@ -40,8 +40,6 @@ The Car Rental System is a command-line application developed in C++ to manage c
 - Efficient: Automates car rental operations, reducing manual effort.
 - Accurate: Provides detailed invoices and maintains data integrity through file handling.
 
-This project demonstrates practical application of C++ programming concepts, including file handling, user authentication, and basic data processing, making it a valuable tool for managing car rental services.
-
 # Project Demo
 ## Welcome Page
 ![image](https://github.com/akshat4810/Car-Rental-System-Using-CPP/assets/84409658/42fc3529-0932-4bad-a30b-ce79e31fdd77)
@@ -56,5 +54,5 @@ This project demonstrates practical application of C++ programming concepts, inc
 ## End
 ![image](https://github.com/akshat4810/Car-Rental-System-Using-CPP/assets/84409658/3c8e2ccd-dce1-49f0-a762-96b4065bd263)
 
-
+This project demonstrates practical application of C++ programming concepts, including file handling, user authentication, and basic data processing, making it a valuable tool for managing car rental services.
 
