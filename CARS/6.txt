@@ -1,0 +1,15 @@
+    You Have Choosed Toyota Etios 2017
+
+    Specifications:
+
+    Model:                     Toyota Etios 2017
+    Fuel:                      Diesel
+    Milage:                    22km/ltr
+    Body Type:                 Sedan
+    Car No:                    MH11EU1568
+    Color:                     RED
+    Seating Capacity:          5 Persons
+
+    Price:                     Rs.2600
+
+    Are You Sure You Want To Rent This Car(Y/N)?

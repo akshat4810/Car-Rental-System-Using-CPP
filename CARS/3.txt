@@ -1,0 +1,15 @@
+    You Have Choosed Ford Figo 2013
+
+    Specifications:
+
+    Model:                     Ford Figo 2013
+    Fuel:                      Diesel
+    Milage:                    22km/ltr
+    Body Type:                 Hatchback
+    Car No:                    MH10AN5629
+    Color:                     BLACK
+    Seating Capacity:          5 Persons
+
+    Price:                     Rs.2300
+
+    Are You Sure You Want To Rent This Car(Y/N)?

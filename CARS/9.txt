@@ -1,0 +1,15 @@
+    You Have Choosed Hyundai Creta 2018
+
+    Specifications:
+
+    Model:                     Hyundai Creta 2018
+    Fuel:                      Diesel
+    Milage:                    19km/ltr
+    Body Type:                 MID-SUV
+    Car No:                    MH10CX6669
+    Color:                     SILVER
+    Seating Capacity:          5 Persons
+
+    Price:                     Rs.2900
+
+    Are You Sure You Want To Rent This Car(Y/N)?

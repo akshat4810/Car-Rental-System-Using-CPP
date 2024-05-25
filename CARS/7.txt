@@ -1,0 +1,15 @@
+    You Have Choosed Mahindra XUV 500 2018
+
+    Specifications:
+
+    Model:                     Mahindra XUV 500 2018
+    Fuel:                      Diesel
+    Milage:                    16km/ltr
+    Body Type:                 SUV
+    Car No:                    MH12LV9856
+    Color:                     RED
+    Seating Capacity:          7 Persons
+
+    Price:                     Rs.3000
+
+    Are You Sure You Want To Rent This Car(Y/N)?

@@ -1,0 +1,15 @@
+    You Have Choosed Maruti Suzuki Swift 2016
+
+    Specifications:
+
+    Model:                     Maruti Suzuki Swift 2016
+    Fuel:                      Petrol
+    Milage:                    18km/ltr
+    Body Type:                 Hatchback
+    Car No:                    MH12SU3596
+    Color:                     RED
+    Seating Capacity:          5 Persons
+
+    Price:                     Rs.2200
+
+    Are You Sure You Want To Rent This Car(Y/N)?

@@ -1,0 +1,15 @@
+    You Have Choosed Hyundai Verna 2016
+
+    Specifications:
+
+    Model:                     Hyundai Verna 2016
+    Fuel:                      Petrol
+    Milage:                    19km/ltr
+    Body Type:                 Sedan
+    Car No:                    MH12SX8487
+    Color:                     BLACK
+    Seating Capacity:          5 Persons
+
+    Price:                     Rs.2550
+
+    Are You Sure You Want To Rent This Car(Y/N)?

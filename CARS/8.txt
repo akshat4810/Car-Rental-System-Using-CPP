@@ -1,0 +1,15 @@
+    You Have Choosed Mahindra Scorpio 2016
+
+    Specifications:
+
+    Model:                     Mahindra Scorpio 2016
+    Fuel:                      Diesel
+    Milage:                    17km/ltr
+    Body Type:                 SUV
+    Car No:                    MH10CA2378
+    Color:                     BLACK
+    Seating Capacity:          7 Persons
+
+    Price:                     Rs.2950
+
+    Are You Sure You Want To Rent This Car(Y/N)?

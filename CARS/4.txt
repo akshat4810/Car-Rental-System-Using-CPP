@@ -1,0 +1,15 @@
+    You Have Choosed Maruti Suzuki Ciaz 2018
+
+    Specifications:
+
+    Model:                     Maruti Suzuki Ciaz 2018
+    Fuel:                      Diesel
+    Milage:                    20km/ltr
+    Body Type:                 Sedan
+    Car No:                    MH10CX5829
+    Color:                     White
+    Seating Capacity:          5 Persons
+
+    Price:                     Rs.2500
+
+    Are You Sure You Want To Rent This Car(Y/N)?

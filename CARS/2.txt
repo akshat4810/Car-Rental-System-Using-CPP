@@ -1,0 +1,15 @@
+    You Have Choosed Hyundai Grand I10 2015
+
+    Specifications:
+
+    Model:                     Hyundai Grand I10 2015
+    Fuel:                      Petrol
+    Milage:                    19km/ltr
+    Body Type:                 Hatchback
+    Car No:                    MH12CX1256
+    Color:                     WHITE
+    Seating Capacity:          5 Persons
+
+    Price:                     Rs.2250
+
+    Are You Sure You Want To Rent This Car(Y/N)?
